@@ -1,1 +1,3 @@
-wfs?request=GetFeature&typeName=topp:states&propertyName=STATE_NAME,LAND_KM,the_geom&CQL_FILTER=LAND_KM%20BETWEEN%20100000%20AND%20150000&version=1.0.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c0c964445d991ee7ce5473392512e23f1e57a0974a80e681a62b737cffd596b
+size 153

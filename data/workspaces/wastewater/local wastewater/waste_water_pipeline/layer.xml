@@ -1,16 +1,3 @@
-<layer>
-  <name>waste_water_pipeline</name>
-  <id>LayerInfoImpl--6ca314fc:19d85d2e4bd:-7fee</id>
-  <type>VECTOR</type>
-  <defaultStyle>
-    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
-  </defaultStyle>
-  <resource class="featureType">
-    <id>FeatureTypeInfoImpl--6ca314fc:19d85d2e4bd:-7fef</id>
-  </resource>
-  <attribution>
-    <logoWidth>0</logoWidth>
-    <logoHeight>0</logoHeight>
-  </attribution>
-  <dateCreated>2026-04-13 08:37:59.941 UTC</dateCreated>
-</layer>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9998c9d3cdaf3a86a06aca2d2110798f5a5cefb378977ab98d74a81efa8e68a7
+size 475
