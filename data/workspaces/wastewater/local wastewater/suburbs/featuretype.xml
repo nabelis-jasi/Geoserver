@@ -1,0 +1,128 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--6ca314fc:19d85d2e4bd:-7fe8</id>
+  <name>suburbs</name>
+  <nativeName>suburbs</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--6ca314fc:19d85d2e4bd:-7fff</id>
+  </namespace>
+  <title>suburbs</title>
+  <keywords>
+    <string>features</string>
+    <string>suburbs</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, &#xd;
+  DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>452892.875</minx>
+    <maxx>469926.125</maxx>
+    <miny>7892303.0</miny>
+    <maxy>7904968.0</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>452892.875</minx>
+    <maxx>469926.125</maxx>
+    <miny>7892303.0</miny>
+    <maxy>7904968.0</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--6ca314fc:19d85d2e4bd:-7ffa</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <attributes>
+    <attribute>
+      <name>gid</name>
+      <minOccurs>1</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>false</nillable>
+      <binding>java.lang.Integer</binding>
+    </attribute>
+    <attribute>
+      <name>__gid</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.Double</binding>
+    </attribute>
+    <attribute>
+      <name>suburb_nam</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+    </attribute>
+    <attribute>
+      <name>township</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+    </attribute>
+    <attribute>
+      <name>section</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+    </attribute>
+    <attribute>
+      <name>zone</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.math.BigDecimal</binding>
+    </attribute>
+    <attribute>
+      <name>ward</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.math.BigDecimal</binding>
+    </attribute>
+    <attribute>
+      <name>op_zone</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+    </attribute>
+    <attribute>
+      <name>short_name</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+    </attribute>
+    <attribute>
+      <name>geom</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>org.locationtech.jts.geom.MultiPolygon</binding>
+    </attribute>
+  </attributes>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

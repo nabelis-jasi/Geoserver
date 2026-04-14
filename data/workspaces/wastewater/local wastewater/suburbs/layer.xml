@@ -1,0 +1,27 @@
+<layer>
+  <name>suburbs</name>
+  <id>LayerInfoImpl--6ca314fc:19d85d2e4bd:-7fe7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-1c443fee:182c0f3f209:-7fe4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7ff1</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6ca314fc:19d85d2e4bd:-7fe8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2026-04-13 08:47:43.319 UTC</dateCreated>
+</layer>

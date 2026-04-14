@@ -1,0 +1,16 @@
+<layer>
+  <name>form_submissions</name>
+  <id>LayerInfoImpl--6ca314fc:19d85d2e4bd:-7ff2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6ca314fc:19d85d2e4bd:-7ff3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2026-04-13 08:21:50.408 UTC</dateCreated>
+</layer>
